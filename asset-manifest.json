@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Email_Integration_with_email.js/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Email_Integration_with_email.js/static/js/main.0a106595.chunk.js",
+    "main.js.map": "/Email_Integration_with_email.js/static/js/main.0a106595.chunk.js.map",
+    "runtime-main.js": "/Email_Integration_with_email.js/static/js/runtime-main.cda8139d.js",
+    "runtime-main.js.map": "/Email_Integration_with_email.js/static/js/runtime-main.cda8139d.js.map",
+    "static/js/2.0bb14e77.chunk.js": "/Email_Integration_with_email.js/static/js/2.0bb14e77.chunk.js",
+    "static/js/2.0bb14e77.chunk.js.map": "/Email_Integration_with_email.js/static/js/2.0bb14e77.chunk.js.map",
+    "static/js/3.d749adff.chunk.js": "/Email_Integration_with_email.js/static/js/3.d749adff.chunk.js",
+    "static/js/3.d749adff.chunk.js.map": "/Email_Integration_with_email.js/static/js/3.d749adff.chunk.js.map",
+    "index.html": "/Email_Integration_with_email.js/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Email_Integration_with_email.js/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0bb14e77.chunk.js.LICENSE.txt": "/Email_Integration_with_email.js/static/js/2.0bb14e77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda8139d.js",
+    "static/js/2.0bb14e77.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0a106595.chunk.js"
+  ]
+}
