@@ -18,6 +18,7 @@
     ```
     npm install
     ```
+
 1. Go to [EmailJS](https://www.emailjs.com/) create a account and spend some time with docs.
 
 1. Then select a email service.
@@ -26,10 +27,12 @@
 
 1. Update service_id, template_id and user_id in the App.js file
 
-1. Finally
+1. Finally,
     ``` 
     npm start 
     ```
+
+1. Demo here -> https://swift1719.github.io/Email_Integration_with_email.js/
 
 # 
 __Show some ❤️ by starring ⭐ the repository!__
